@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+EntryPoint: fr.hugo4715.testplugin.TestPlugin
+Version: 1.0
+Name: MyCustomPlugin
+WebSite: www.mywebsite.com
+Author: hugo4715
+Description: This is a simple plugin
