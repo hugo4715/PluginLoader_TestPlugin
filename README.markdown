@@ -1,0 +1,4 @@
+#TestPlugin for pluginLoader
+This is a repository to show how a simple plugin is made for my [PluginLoader](https://github.com/hugo4715/PluginLoader/).
+ 
+
